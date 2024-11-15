@@ -1,9 +1,8 @@
 name: flutter_inappwebview_platform_interface
 description: Platform interface for flutter_inappwebview plugin.
 version: 1.0.0
-publish_to: none
 homepage: https://inappwebview.dev/
-repository: https://github.com/pichillilorenzo/flutter_inappwebview_platform_interface
+repository: https://github.com/FrostyBen/flutter_inappwebview
 
 environment:
   sdk: ">=3.2.0 <4.0.0"
